@@ -1,3 +1,3 @@
-![image]([https://github.com/afienni/AutomatedTestingSauceDemo/assets/58798143/67499a55-64b6-4339-a68d-cab5d5f1715b](https://raw.githubusercontent.com/afienni/AutomatedTestingSauceDemo/main/report.png))
+![image.png]({![image](https://github.com/afienni/AutomatedTestingSauceDemo/assets/58798143/5d3dd159-97d6-47ec-a901-5932450eb848)} )
 
 AutomatedTestingSauceDemo - Educational Purpose
